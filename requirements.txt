@@ -1,5 +1,5 @@
-pip install ultralytics
-pip install PIL
-pip install numpy
-pip install cv2
-pip install os
+ultralytics
+PIL
+numpy
+cv2
+os
